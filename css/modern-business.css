@@ -21,6 +21,6 @@ body {
   margin-bottom: 30px;
 }
 
-.navbarDropdownPortfolio.nav-link.dropdrown-toggle:hover, .navbarDropdownPortfolio.nav-link.dropdrown-toggle {
+.navbar-dark .navbar-nav .nav-link .nav-link:hover{
   color: rgba(204, 153, 51, 1) !important;
 }
