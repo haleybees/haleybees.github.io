@@ -24,3 +24,14 @@ body {
 .navbar-dark .navbar-nav .nav-link .nav-link:hover{
   color: rgba(204, 153, 51, 1) !important;
 }
+
+a {
+  color: #cc9933;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #cc9933;
+  text-decoration: bold;
+}
