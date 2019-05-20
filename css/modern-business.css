@@ -25,7 +25,7 @@ body {
   color: rgba(204, 153, 51, 1) !important;
 }
 
-.active{
+.nav-link.active{
   color: rgba(204, 153, 51, .5) !important;
 }
 
