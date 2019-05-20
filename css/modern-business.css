@@ -40,8 +40,8 @@ a:hover {
   text-decoration: none !important;
 }
 
-.dropdown-item {
-  color: #999999 !important;
+.dropdown-item .dropdown-menu {
+  color: #999999;
   background-color: #343a40 !important;
   border: none  !important;
 }
