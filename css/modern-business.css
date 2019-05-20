@@ -21,7 +21,7 @@ body {
   margin-bottom: 30px;
 }
 
-.nav-item .navbar-dark .navbar-nav .nav-link .nav-link:hover{
+.nav-item .navbar-dark .navbar-nav .nav-link .nav-link:hover .nav-link:focus{
   color: rgba(204, 153, 51, 1) !important;
 }
 
@@ -33,5 +33,5 @@ a {
 
 a:hover {
   color: rgba(204, 153, 51, .5);
-  text-decoration: none;
+  text-decoration: none !important;
 }
