@@ -44,6 +44,9 @@ a:hover {
   color: #999999 !important;
   background-color: #343a40 !important;
   border: none  !important;
-  padding: 0px !important;
-  border-radius: 0px !important;
+}
+
+.dropdown-menu {
+	padding: 0px !important;
+	border-radius: 0px !important;
 }
