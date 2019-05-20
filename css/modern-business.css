@@ -39,3 +39,9 @@ a:hover {
   color: #996600;
   text-decoration: none !important;
 }
+
+.dropdown-item {
+  color: #999999 !important;
+  background-color: #343a40 !important;
+  border: none  !important;
+}
