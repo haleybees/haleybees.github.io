@@ -20,3 +20,7 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.navbarDropdownPortfolio.nav-link.dropdrown-toggle:hover, .navbarDropdownPortfolio.nav-link.dropdrown-toggle {
+  color: rgba(204, 153, 51, 1) !important;
+}
