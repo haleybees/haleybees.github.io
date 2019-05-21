@@ -51,12 +51,3 @@ a:hover {
 	border-radius: 0px !important;
 	border: none  !important;
 }
-
-.down-arrow {
-	display: inline-block;
-	position: relative;
-	background: #cc9933;
-	padding: 15px 0;
-	width: 20px;
-text-align: center;
-}
