@@ -21,8 +21,20 @@ body {
   margin-bottom: 30px;
 }
 
+.bg-dark {
+    background-color: #cc9933 !important;
+}
+
+.bg-dark-foot {
+    background-color: #000000 !important;
+}
+
 .nav-item .navbar-dark .navbar-nav .nav-link .nav-link:hover .nav-link:focus{
-  color: rgba(204, 153, 51, 1) !important;
+  color: rgba(255,255,255,1) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.75) !important;
 }
 
 a {
@@ -37,8 +49,8 @@ a:hover {
 }
 
 .dropdown-item {
-  color: #999999 !important;
-  background-color: #343a40 !important;
+  color: rgba(255,255,255,.75) !important;
+  background-color: #cc9933 !important;
   border: none  !important;
 }
 
