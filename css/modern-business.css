@@ -18,7 +18,8 @@ body {
 }
 
 .impa {
-	font-family: impact !important;
+	font-family: Impact;
+	font-size: 1.75rem;
 }
 
 .portfolio-item {
