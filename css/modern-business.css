@@ -17,6 +17,10 @@ body {
   background-size: cover;
 }
 
+.imp {
+	font-family: impact;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
