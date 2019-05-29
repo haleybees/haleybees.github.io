@@ -49,6 +49,17 @@ body {
 	border: none  !important;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: #cc9933;
+  color: white;
+}
+
 .impa {
 	font-family: Impact, serif;
 	font-size: 1.75rem;
