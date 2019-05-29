@@ -44,13 +44,13 @@ body {
 	color: #fff;
 }
 
-
 .contact-links {
 color: #fff;
 }
 	
 .contact-row {
 	justify-content: space-around;
+	align=center;
 }
 
 .dropdown-item {
