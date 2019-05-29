@@ -33,6 +33,18 @@ body {
   background-size: cover;
 }
 
+.contact-circle {
+	background-color: rgba(204,153,51,.75);
+ 	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+  	padding: 0px;
+	text-align: center;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+}
+
 .dropdown-item {
   color: #999999 !important;
   background-color: #343a40 !important;
