@@ -49,16 +49,6 @@ body {
 	border: none  !important;
 }
 
-.fbf {
-	flex: 0 0 50px;
-	margin-top: auto;
-}
-
-.fbfc {
-	display:flex;
-	flex-direction:column;
-	min-height: 100vh;
-}
 
 .impa {
 	font-family: Impact, serif;
