@@ -41,8 +41,10 @@ body {
   	padding: 0px;
 	text-align: center;
 	color: #fff;
-	display: table-cell;
-	vertical-align: middle;
+}
+
+.contact-row {
+	justify-content: space-around;
 }
 
 .dropdown-item {
