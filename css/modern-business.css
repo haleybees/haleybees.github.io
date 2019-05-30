@@ -64,7 +64,7 @@ color: #fff;
  	width: 250px;
 	height: 250px;
 	border-radius: 50%;
-  	padding-top: 87px;
+  	padding-top: 35px;
 	margin: 20px 0px 20px 0px;
 	text-align: center;
 	color: #fff;
@@ -87,13 +87,18 @@ color: #fff;
 }
 
 .fa-instagram {
-font-size: 60px !important;
+font-size: 160px !important;
   color: white;
 }
 
 .impa {
 	font-family: Impact, serif;
 	font-size: 1.75rem;
+}
+
+#impabig {
+	font-family: Impact, serif;
+	font-size: 2rem;
 }
 
 .mb-3 {
