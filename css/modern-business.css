@@ -56,7 +56,8 @@ color: #fff;
 }
 
 .contact-links:hover {
-	text-decoration: underline;
+	text-decoration: underline !important;
+	color: #fff !important;
 }
 
 .contact-circle-name {
