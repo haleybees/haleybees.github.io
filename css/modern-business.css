@@ -48,9 +48,16 @@ body {
 color: #fff;
 }
 
-#contact name {
+.contact-circle-name {
+	background-color: rgba(204,153,51,.75);
+ 	width: 250px;
+	height: 250px;
+	border-radius: 50%;
   	padding-top: 110px;
-}	
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+	color: #fff;
+}
 
 .dropdown-item {
   color: #999999 !important;
