@@ -55,6 +55,10 @@ body {
 color: #fff;
 }
 
+.contact-links:hover {
+	text-decoration: underline;
+}
+
 .contact-circle-name {
 	background-color: rgba(204,153,51,.75);
  	width: 250px;
