@@ -59,6 +59,17 @@ color: #fff;
 	color: #fff;
 }
 
+.contact-circle-insta {
+	background-color: rgba(204,153,51,.75);
+ 	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+  	padding-top: 90px;
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+	color: #fff;
+}
+
 .dropdown-item {
   color: #999999 !important;
   background-color: #343a40 !important;
@@ -76,7 +87,7 @@ color: #fff;
 }
 
 .fa-instagram {
-font-size: 50px;
+font-size: 60px !important;
   color: white;
 }
 
