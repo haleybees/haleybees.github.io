@@ -19,10 +19,6 @@ body {
   padding-top: 56px;
 }
 
-#bcmar{
-	margin-bottom: 3rem;
-}
-
 .breadcrumb {
 	background-color: rgba(204,153,51,.05);
 }
@@ -50,7 +46,7 @@ body {
 	height: 250px;
 	border-radius: 50%;
   	padding-top: 100px;
-	margin: 20px 0px 50px 0px;
+	margin: 20px 0px 20px 0px;
 	text-align: center;
 	color: #fff;
 }
@@ -115,6 +111,11 @@ color: #fff;
 #impabig {
 	font-family: Impact, serif;
 	font-size: 2.5rem;
+}
+
+#mar{
+	margin-bottom: 3rem;
+	margin-top: 3rem;
 }
 
 .mb-3 {
