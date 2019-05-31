@@ -40,13 +40,17 @@ body {
   background-size: cover;
 }
 
+.contactbc {
+	margin-bottom: 50px;
+}
+
 .contact-circle {
 	background-color: rgba(204,153,51,.75);
  	width: 250px;
 	height: 250px;
 	border-radius: 50%;
   	padding-top: 100px;
-	margin: 20px 0px 20px 0px;
+	margin: 20px 0px 50px 0px;
 	text-align: center;
 	color: #fff;
 }
@@ -99,7 +103,7 @@ color: #fff;
 }
 
 .fa-instagram {
-font-size: 160px !important;
+  font-size: 160px !important;
   color: white;
 }
 
