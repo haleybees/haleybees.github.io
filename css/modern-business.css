@@ -19,6 +19,10 @@ body {
   padding-top: 56px;
 }
 
+#bcmar{
+	margin-bottom: 50px;
+}
+
 .breadcrumb {
 	background-color: rgba(204,153,51,.05);
 }
@@ -38,10 +42,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-.contactbc {
-	margin-bottom: 50px;
 }
 
 .contact-circle {
