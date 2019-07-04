@@ -99,7 +99,7 @@ color: #fff;
 }
 
 .fa:hover {
-	color: #fff !important;
+	color: rgba(255,255,255,.9) !important;
 }
 
 .fa-instagram {
